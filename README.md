@@ -1,4 +1,4 @@
-## Working through the fundamentals of Nachine Learning and Artificial Intelligence through NEU coursework and personal experiments
+## Working through the fundamentals of Machine Learning and Artificial Intelligence through NEU coursework and personal experiments
 
 | Category               | Topics                                                                                                              |
 |------------------------|---------------------------------------------------------------------------------------------------------------------|
